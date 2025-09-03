@@ -1,0 +1,6 @@
+[submodule "pprovider-create-order-mpi-237"]
+	path = pprovider-create-order-mpi-237
+	url = https://github.com/Syed-Samee-Uddin/Paypal-Payment-Integration.git
+[submodule "processing-service-f1"]
+	path = processing-service-f1
+	url = https://github.com/Syed-Samee-Uddin/Paypal-Payment-Integration.git
